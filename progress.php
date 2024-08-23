@@ -22,9 +22,9 @@
         </div>
     </section>
     <section>
-        <button class="btn btn-dark">
-            <i class="bi bi-circle"></i>
-            Some Button
+        <button class="btn text-dark fw-medium" style="background:#ECE5F4;">
+            <i class="bi bi-play  " style="color:#9C60EF"></i>
+            Pending Assignments
         </button>
     </section>
 </header>
