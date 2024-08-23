@@ -1,6 +1,7 @@
 <nav class="d-flex container pt-2 justify-content-between align-items-center">
     <section class="logo d-flex align-items-center gap-2">
-        <img width="50px" src="https://www.assignmentworkhelp.com/wp-content/uploads/2018/08/icon1.png" alt="logo for assignmate">
+        <img width="50px" src="https://www.assignmentworkhelp.com/wp-content/uploads/2018/08/icon1.png"
+            alt="logo for assignmate">
         <h5>AssignMate</h5>
     </section>
     <section class="center d-flex gap-3 justify-content-between align-items-center">
